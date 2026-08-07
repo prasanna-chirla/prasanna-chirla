@@ -1,6 +1,6 @@
 # Hi there 👋, I'm **Chirla Prasanna**
 
-### 💻 Aspiring Software Engineer | Full-Stack Developer | Python & Java Enthusiast
+### 💻 Aspiring Software Engineer | Full-Stack Developer 
 
 I'm a Computer Science student passionate about building impactful software and continuously improving my problem-solving skills. I enjoy developing web applications, exploring backend technologies, and solving algorithmic challenges. My goal is to become a software engineer who creates efficient, scalable, and user-centric solutions.
 
